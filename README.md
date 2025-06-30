@@ -1,5 +1,3 @@
-<div style="background: linear-gradient(rgba(74, 57, 145, 0.8), rgba(74, 57, 145, 0.8)), url('assets/wallpaper.png'); background-size: cover; background-position: center; border-radius: 20px; padding: 40px 20px; margin-bottom: 30px; color: white; text-align: center;">
-
 # 🧠 Talk to Slimen
 
 <div align="center">
@@ -11,8 +9,6 @@
 **Welcome to Talk to Slimen... Your daily companion for mental clarity. This is your safe space.**
 
 Inspired by the beloved character Slimen Labyadh from the iconic Tunisian series "Choufli Hal" 🇹🇳 - now reimagined as your personal psychotherapist companion. Share your thoughts, reflect on your feelings, and find clarity in a familiar, comforting presence.
-
-</div>
 
 </div>
 
@@ -160,7 +156,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 <img src="assets/wallpaper.png" alt="Custom Telegram Chat Wallpaper" width="400" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); margin: 20px 0; border: 3px solid white;">
 
-<div style="background-color: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 20px; margin: 20px; color: #333;">
 
 **How to set the wallpaper in Telegram:**
 1. **Download** the `wallpaper.png` from the assets folder
@@ -169,8 +164,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 4. **Select** "Change Chat Background" 
 5. **Choose** "Upload from Gallery" and select the wallpaper
 6. **Enjoy** the immersive Slimen experience! ✨
-
-</div>
 
 </div>
 
