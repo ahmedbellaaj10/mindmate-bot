@@ -14,7 +14,7 @@ Log your thoughts, reflect on your mood, and access calming resources. Private. 
 
 <div align="center">
   
-👉 **[Launch MindMate Bot](https://t.me/mindmate007_bot)** 👈
+👉 **<a href="https://t.me/mindmate007_bot" target="_blank">Launch MindMate Bot</a>** 👈
 
 **Quick Access QR Code:**
 
@@ -41,13 +41,13 @@ Simply click the link above, scan the QR code, or search for `@mindmate007_bot` 
 ### Prerequisites
 
 - Python 3.13 or higher
-- A Telegram Bot Token (from [@BotFather](https://t.me/botfather)) - **You must create your own bot**
+- A Telegram Bot Token (from <a href="https://t.me/botfather" target="_blank">@BotFather</a>) - **You must create your own bot**
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ahmedbellaaj10/mindmate-bot
    cd mindmate-bot
    ```
 
@@ -65,7 +65,7 @@ Simply click the link above, scan the QR code, or search for `@mindmate007_bot` 
    
    > **Important**: You MUST create your own bot. Do NOT try to use the official MindMate bot token.
    
-   - Message [@BotFather](https://t.me/botfather) on Telegram
+   - Message <a href="https://t.me/botfather" target="_blank">@BotFather</a> on Telegram
    - Create a new bot with `/newbot`
    - Give your bot a unique name (different from MindMate)
    - Copy the token BotFather gives you
@@ -128,7 +128,7 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 
 ## 🌟 Support
 
-- **Try the bot**: [https://t.me/mindmate007_bot](https://t.me/mindmate007_bot)
+- **Try the bot**: <a href="https://t.me/mindmate007_bot" target="_blank">https://t.me/mindmate007_bot</a>
 - **Report issues**: Open a GitHub issue
 - **Questions**: Reach out through GitHub discussions
 
