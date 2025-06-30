@@ -1,12 +1,20 @@
+<div style="background: linear-gradient(rgba(74, 57, 145, 0.8), rgba(74, 57, 145, 0.8)), url('assets/wallpaper.png'); background-size: cover; background-position: center; border-radius: 20px; padding: 40px 20px; margin-bottom: 30px; color: white; text-align: center;">
+
 # 🧠 Talk to Slimen
 
 <div align="center">
-  <img src="assets/mindmate-profile.jpg" alt="MindMate Bot Profile" width="150" height="150" style="border-radius: 50%;">
+  <img src="assets/mindmate-profile.jpg" alt="MindMate Bot Profile" width="150" height="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
 </div>
+
+<div style="background-color: rgba(255, 255, 255, 0.95); color: #333; border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 800px;">
 
 **Welcome to Talk to Slimen... Your daily companion for mental clarity. This is your safe space.**
 
 Inspired by the beloved character Slimen Labyadh from the iconic Tunisian series "Choufli Hal" 🇹🇳 - now reimagined as your personal psychotherapist companion. Share your thoughts, reflect on your feelings, and find clarity in a familiar, comforting presence.
+
+</div>
+
+</div>
 
 ## 🚀 Talk to Slimen Now
 
@@ -24,6 +32,11 @@ Inspired by the beloved character Slimen Labyadh from the iconic Tunisian series
 
 **🖼️ Enhanced Experience:**
 *Don't forget to set the custom wallpaper `@wallpaper.png` in your Telegram chat for the full Slimen experience!*
+
+<div style="background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 20px; margin: 15px 0;">
+<h4 style="color: white; margin: 0 0 10px 0;">🎨 Wallpaper Preview</h4>
+<img src="assets/wallpaper.png" alt="Custom Telegram Wallpaper" width="300" style="border-radius: 10px; border: 2px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+</div>
 
 </div>
 
@@ -138,6 +151,28 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 - **Questions**: Reach out through GitHub discussions
 
 ---
+
+## 🖼️ Custom Wallpaper
+
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px 0;">
+
+<h3 style="color: white; margin-bottom: 20px;">🌟 Enhance Your Chat Experience</h3>
+
+<img src="assets/wallpaper.png" alt="Custom Telegram Chat Wallpaper" width="400" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); margin: 20px 0; border: 3px solid white;">
+
+<div style="background-color: rgba(255, 255, 255, 0.95); border-radius: 15px; padding: 20px; margin: 20px; color: #333;">
+
+**How to set the wallpaper in Telegram:**
+1. **Download** the `wallpaper.png` from the assets folder
+2. **Open** your chat with @mindmate007_bot  
+3. **Tap** the chat name at the top
+4. **Select** "Change Chat Background" 
+5. **Choose** "Upload from Gallery" and select the wallpaper
+6. **Enjoy** the immersive Slimen experience! ✨
+
+</div>
+
+</div>
 
 ## 🎬 About "Choufli Hal"
 
