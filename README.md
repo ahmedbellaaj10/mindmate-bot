@@ -149,9 +149,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 ---
 
 ## 🖼️ Custom Wallpaper
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; margin: 20px 0;">
-
 <h3 style="color: white; margin-bottom: 20px;">🌟 Enhance Your Chat Experience</h3>
 
 <img src="assets/wallpaper.png" alt="Custom Telegram Chat Wallpaper" width="400" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); margin: 20px 0; border: 3px solid white;">
@@ -164,8 +161,6 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 4. **Select** "Change Chat Background" 
 5. **Choose** "Upload from Gallery" and select the wallpaper
 6. **Enjoy** the immersive Slimen experience! ✨
-
-</div>
 
 ## 🎬 About "Choufli Hal"
 
